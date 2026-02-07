@@ -1,0 +1,44 @@
+body{
+    width:1400px;
+    height: 1400px;
+    background-color: hsl(0, 0%, 100%);
+    display: flex;
+   justify-content: center;
+   align-items: center;
+    
+}
+
+
+.body{
+   background: hsl(212, 45%, 89%);
+    width:95%;
+    height:90%;
+   display: flex;
+   justify-content: center;
+   align-items: center;
+   box-shadow:1px 1px 30px rgb(170, 170, 170) ,
+     -1px -1px 30px rgb(170, 170, 170) ;
+
+}
+
+.project{
+    width: 17%;
+    background:hsl(0, 0%, 100%) ;
+    padding: 13px;
+    text-align: center;
+    border-radius: 15px;
+    box-shadow:1px 1px 20px rgb(170, 170, 170) ,
+     -1px -1px 20px rgb(170, 170, 170) ;
+
+   
+}
+img{
+    width:100%;
+    border-radius: 15px;
+
+}
+.font{
+    font-size: 15px;
+    font-family:outfit;
+    color: gray;
+}
